@@ -35,6 +35,8 @@ Feel free to try out the Pong Game and experience the thrill of this classic arc
 ## Site Status 🎯
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
-Link to Demo-Website: https://devon-countdown-app.netlify.app/
+Link to Demo-Website: https://devon-pong-game.netlify.app/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d961026f-a4b1-4618-af60-f0ee43f982bd/deploy-status)](https://app.netlify.com/sites/devon-pong-game/deploys)
 
 
