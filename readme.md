@@ -16,6 +16,8 @@ This project is a browser-based implementation of the classic Pong game. It brin
 ### Introduction
 
 I thoroughly enjoyed working on this project as it allowed me to dive into the world of game development and explore the fundamentals of game mechanics. With the goal of recreating the iconic Pong game, I was able to challenge myself and gain valuable insights into the concepts of ball physics, paddle movement, and collision detection.
+<br/>
+This is part of the [20 Vanilla JavaScript Projects](https://github.com/DevonGifford/my_JavaScript/tree/main/JavaScript_Projects#readme) I have completed 
 
 ### Features
 
